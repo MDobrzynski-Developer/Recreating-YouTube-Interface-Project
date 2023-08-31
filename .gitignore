@@ -1,0 +1,21 @@
+
+## Gitignore Configuration
+
+# Ignored files or folders that won't be tracked by Git.
+
+# Visual Studio Code settings and workspace
+.vscode/*
+
+# Source code
+src/*
+
+# Unit test files
+test/*
+
+# Node.js dependencies
+node_modules/*
+
+# Project configuration files
+package-lock.json
+package.json
+webpack.config.js
